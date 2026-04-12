@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/Art-Promenade</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Sat, 11 Apr 2026 02:45:31 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Apr 2026 03:24:15 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[Women forming a skull]]></title>
-      <link>https://www.wikiart.org/zh/sa-er-wa-duo-da-li/women-forming-a-skull</link>
+      <title><![CDATA[The Return of the Prodigal Son]]></title>
+      <link>https://www.wikiart.org/zh/lun-bo-lang/the-return-of-the-prodigal-son-1669</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.wikiart.org/zh/lun-bo-lang/the-return-of-the-prodigal-son-1669</guid>
+      <pubDate>Sun, 12 Apr 2026 03:24:15 +0000</pubDate>
+    </item>
+<item>
+      <title>Women forming a skull</title>
+      <link>https://www.wikiart.org/zh/sa-er-wa-duo-da-li/women-forming-a-skull</link>
+      <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/sa-er-wa-duo-da-li/women-forming-a-skull</guid>
       <pubDate>Sat, 11 Apr 2026 02:45:31 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/lun-bo-lang/philosopher-in-meditation-1632</guid>
       <pubDate>Sun, 29 Mar 2026 02:56:27 +0000</pubDate>
-    </item>
-<item>
-      <title>Movement in Squares</title>
-      <link>https://www.wikiart.org/zh/bridget-riley/movement-in-squares-1961</link>
-      <description />
-      <guid isPermaLink="false">https://www.wikiart.org/zh/bridget-riley/movement-in-squares-1961</guid>
-      <pubDate>Sat, 28 Mar 2026 02:42:06 +0000</pubDate>
     </item>
 </channel>
 </rss>
