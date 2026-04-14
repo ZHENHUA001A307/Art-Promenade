@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/Art-Promenade</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Mon, 13 Apr 2026 03:33:53 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Apr 2026 03:23:30 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[Dynamism of a Dog on a Leash]]></title>
-      <link>https://www.wikiart.org/zh/giacomo-balla/dynamism-of-a-dog-on-a-leash-1912</link>
+      <title><![CDATA[The Angel of the home or the Triumph of Surrealism]]></title>
+      <link>https://www.wikiart.org/zh/ma-ke-si-en-si-te/the-angel-of-the-home-or-the-triumph-of-surrealism-1937</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.wikiart.org/zh/ma-ke-si-en-si-te/the-angel-of-the-home-or-the-triumph-of-surrealism-1937</guid>
+      <pubDate>Tue, 14 Apr 2026 03:23:30 +0000</pubDate>
+    </item>
+<item>
+      <title>Dynamism of a Dog on a Leash</title>
+      <link>https://www.wikiart.org/zh/giacomo-balla/dynamism-of-a-dog-on-a-leash-1912</link>
+      <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/giacomo-balla/dynamism-of-a-dog-on-a-leash-1912</guid>
       <pubDate>Mon, 13 Apr 2026 03:33:53 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/qiao-zhi-xiu-la/da-wan-dao-de-xing-qi-tian-xia-wu-1886</guid>
       <pubDate>Tue, 31 Mar 2026 02:51:44 +0000</pubDate>
-    </item>
-<item>
-      <title>Still Life with Skull</title>
-      <link>https://www.wikiart.org/zh/bao-luo-sai-shang/still-life-with-skull-1898</link>
-      <description />
-      <guid isPermaLink="false">https://www.wikiart.org/zh/bao-luo-sai-shang/still-life-with-skull-1898</guid>
-      <pubDate>Mon, 30 Mar 2026 03:18:11 +0000</pubDate>
     </item>
 </channel>
 </rss>
