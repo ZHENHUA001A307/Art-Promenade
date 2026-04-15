@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/Art-Promenade</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Tue, 14 Apr 2026 03:23:30 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Apr 2026 03:21:47 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[The Angel of the home or the Triumph of Surrealism]]></title>
-      <link>https://www.wikiart.org/zh/ma-ke-si-en-si-te/the-angel-of-the-home-or-the-triumph-of-surrealism-1937</link>
+      <title><![CDATA[第九波濤]]></title>
+      <link>https://www.wikiart.org/zh/yi-fan-kang-si-tan-ding-nuo-wei-qi-ai-wa-zuo-fu-si-ji/di-jiu-bo-tao-1850</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.wikiart.org/zh/yi-fan-kang-si-tan-ding-nuo-wei-qi-ai-wa-zuo-fu-si-ji/di-jiu-bo-tao-1850</guid>
+      <pubDate>Wed, 15 Apr 2026 03:21:47 +0000</pubDate>
+    </item>
+<item>
+      <title>The Angel of the home or the Triumph of Surrealism</title>
+      <link>https://www.wikiart.org/zh/ma-ke-si-en-si-te/the-angel-of-the-home-or-the-triumph-of-surrealism-1937</link>
+      <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/ma-ke-si-en-si-te/the-angel-of-the-home-or-the-triumph-of-surrealism-1937</guid>
       <pubDate>Tue, 14 Apr 2026 03:23:30 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/wei-lian-bu-lai-ke/the-red-dragon-and-the-woman-clothed-with-the-sun-1805</guid>
       <pubDate>Wed, 01 Apr 2026 03:21:53 +0000</pubDate>
-    </item>
-<item>
-      <title>大碗岛的星期天下午</title>
-      <link>https://www.wikiart.org/zh/qiao-zhi-xiu-la/da-wan-dao-de-xing-qi-tian-xia-wu-1886</link>
-      <description />
-      <guid isPermaLink="false">https://www.wikiart.org/zh/qiao-zhi-xiu-la/da-wan-dao-de-xing-qi-tian-xia-wu-1886</guid>
-      <pubDate>Tue, 31 Mar 2026 02:51:44 +0000</pubDate>
     </item>
 </channel>
 </rss>
