@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/Art-Promenade</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Fri, 17 Apr 2026 03:25:15 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Apr 2026 03:34:10 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[Work Nr. 217 ELP II (Brain Salad Surgery)]]></title>
-      <link>https://www.wikiart.org/zh/h-r-ji-ge-er/work-nr-217-elp-ii-brain-salad-surgery-1973</link>
+      <title><![CDATA[Allegory of Time Governed by Prudence]]></title>
+      <link>https://www.wikiart.org/zh/ti-qi-an-nuo-wei-jia-lue/allegory-of-time-governed-by-prudence</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.wikiart.org/zh/ti-qi-an-nuo-wei-jia-lue/allegory-of-time-governed-by-prudence</guid>
+      <pubDate>Mon, 20 Apr 2026 03:34:10 +0000</pubDate>
+    </item>
+<item>
+      <title>Work Nr. 217 ELP II (Brain Salad Surgery)</title>
+      <link>https://www.wikiart.org/zh/h-r-ji-ge-er/work-nr-217-elp-ii-brain-salad-surgery-1973</link>
+      <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/h-r-ji-ge-er/work-nr-217-elp-ii-brain-salad-surgery-1973</guid>
       <pubDate>Fri, 17 Apr 2026 03:25:15 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/maria-primachenko/may-that-nuclear-war-be-cursed-1978</guid>
       <pubDate>Sat, 04 Apr 2026 02:41:09 +0000</pubDate>
-    </item>
-<item>
-      <title>音樂家肖像</title>
-      <link>https://www.wikiart.org/zh/lie-ao-na-duo-da-fen-qi/yin-le-jia-xiao-xiang-1485</link>
-      <description />
-      <guid isPermaLink="false">https://www.wikiart.org/zh/lie-ao-na-duo-da-fen-qi/yin-le-jia-xiao-xiang-1485</guid>
-      <pubDate>Fri, 03 Apr 2026 02:50:33 +0000</pubDate>
     </item>
 </channel>
 </rss>
