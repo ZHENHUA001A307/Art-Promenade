@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/Art-Promenade</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Mon, 20 Apr 2026 03:34:10 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 21 Apr 2026 03:26:16 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[Allegory of Time Governed by Prudence]]></title>
-      <link>https://www.wikiart.org/zh/ti-qi-an-nuo-wei-jia-lue/allegory-of-time-governed-by-prudence</link>
+      <title><![CDATA[忧郁 I]]></title>
+      <link>https://www.wikiart.org/zh/a-er-bu-lei-xi-te-diu-le/you-yu-i-1514</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.wikiart.org/zh/a-er-bu-lei-xi-te-diu-le/you-yu-i-1514</guid>
+      <pubDate>Tue, 21 Apr 2026 03:26:16 +0000</pubDate>
+    </item>
+<item>
+      <title>Allegory of Time Governed by Prudence</title>
+      <link>https://www.wikiart.org/zh/ti-qi-an-nuo-wei-jia-lue/allegory-of-time-governed-by-prudence</link>
+      <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/ti-qi-an-nuo-wei-jia-lue/allegory-of-time-governed-by-prudence</guid>
       <pubDate>Mon, 20 Apr 2026 03:34:10 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/a-er-tai-mi-xi-ya-zhen-di-lai-si-ji/you-di-ge-xia-he-luo-fu-ni-si-de-tou-lu-1620</guid>
       <pubDate>Sun, 05 Apr 2026 03:16:44 +0000</pubDate>
-    </item>
-<item>
-      <title>May That Nuclear War Be Cursed!</title>
-      <link>https://www.wikiart.org/zh/maria-primachenko/may-that-nuclear-war-be-cursed-1978</link>
-      <description />
-      <guid isPermaLink="false">https://www.wikiart.org/zh/maria-primachenko/may-that-nuclear-war-be-cursed-1978</guid>
-      <pubDate>Sat, 04 Apr 2026 02:41:09 +0000</pubDate>
     </item>
 </channel>
 </rss>
