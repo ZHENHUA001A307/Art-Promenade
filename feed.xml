@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/Art-Promenade</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Thu, 23 Apr 2026 03:27:53 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 24 Apr 2026 03:30:26 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[Bottle and Fishes]]></title>
-      <link>https://www.wikiart.org/zh/qiao-zhi-bu-la-ke/bottle-and-fishes-1910</link>
+      <title><![CDATA[Tiger in a Tropical Storm (Surprised!)]]></title>
+      <link>https://www.wikiart.org/zh/heng-li-lu-suo/tiger-in-a-tropical-storm-surprised-1891</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.wikiart.org/zh/heng-li-lu-suo/tiger-in-a-tropical-storm-surprised-1891</guid>
+      <pubDate>Fri, 24 Apr 2026 03:30:26 +0000</pubDate>
+    </item>
+<item>
+      <title>Bottle and Fishes</title>
+      <link>https://www.wikiart.org/zh/qiao-zhi-bu-la-ke/bottle-and-fishes-1910</link>
+      <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/qiao-zhi-bu-la-ke/bottle-and-fishes-1910</guid>
       <pubDate>Thu, 23 Apr 2026 03:27:53 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/ke-lao-de-mo-nai/water-lilies-40</guid>
       <pubDate>Wed, 08 Apr 2026 02:54:21 +0000</pubDate>
-    </item>
-<item>
-      <title>维纳斯的诞生</title>
-      <link>https://www.wikiart.org/zh/wei-lian-a-dao-fu-bu-ge-luo/wei-na-si-de-dan-sheng-1879</link>
-      <description />
-      <guid isPermaLink="false">https://www.wikiart.org/zh/wei-lian-a-dao-fu-bu-ge-luo/wei-na-si-de-dan-sheng-1879</guid>
-      <pubDate>Tue, 07 Apr 2026 02:53:12 +0000</pubDate>
     </item>
 </channel>
 </rss>
