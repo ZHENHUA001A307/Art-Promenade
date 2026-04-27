@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/Art-Promenade</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Fri, 24 Apr 2026 03:30:26 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 27 Apr 2026 03:40:43 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[Tiger in a Tropical Storm (Surprised!)]]></title>
-      <link>https://www.wikiart.org/zh/heng-li-lu-suo/tiger-in-a-tropical-storm-surprised-1891</link>
+      <title><![CDATA[What the Water Gave Me]]></title>
+      <link>https://www.wikiart.org/zh/fu-lie-da-qia-luo/what-the-water-gave-me-1938</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.wikiart.org/zh/fu-lie-da-qia-luo/what-the-water-gave-me-1938</guid>
+      <pubDate>Mon, 27 Apr 2026 03:40:43 +0000</pubDate>
+    </item>
+<item>
+      <title>Tiger in a Tropical Storm (Surprised!)</title>
+      <link>https://www.wikiart.org/zh/heng-li-lu-suo/tiger-in-a-tropical-storm-surprised-1891</link>
+      <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/heng-li-lu-suo/tiger-in-a-tropical-storm-surprised-1891</guid>
       <pubDate>Fri, 24 Apr 2026 03:30:26 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/zhan-mu-si-en-suo-er/self-portrait-with-masks-1899</guid>
       <pubDate>Thu, 09 Apr 2026 02:49:07 +0000</pubDate>
-    </item>
-<item>
-      <title>Water Lilies</title>
-      <link>https://www.wikiart.org/zh/ke-lao-de-mo-nai/water-lilies-40</link>
-      <description />
-      <guid isPermaLink="false">https://www.wikiart.org/zh/ke-lao-de-mo-nai/water-lilies-40</guid>
-      <pubDate>Wed, 08 Apr 2026 02:54:21 +0000</pubDate>
     </item>
 </channel>
 </rss>
