@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/Art-Promenade</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Mon, 27 Apr 2026 03:40:43 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Apr 2026 03:47:16 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[What the Water Gave Me]]></title>
-      <link>https://www.wikiart.org/zh/fu-lie-da-qia-luo/what-the-water-gave-me-1938</link>
+      <title><![CDATA[我们从何处来？我们是谁？我们向何处去？]]></title>
+      <link>https://www.wikiart.org/zh/bao-luo-gao-geng/wo-men-cong-he-chu-lai-wo-men-shi-shui-wo-men-xiang-he-chu-qu-1897</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.wikiart.org/zh/bao-luo-gao-geng/wo-men-cong-he-chu-lai-wo-men-shi-shui-wo-men-xiang-he-chu-qu-1897</guid>
+      <pubDate>Tue, 28 Apr 2026 03:47:16 +0000</pubDate>
+    </item>
+<item>
+      <title>What the Water Gave Me</title>
+      <link>https://www.wikiart.org/zh/fu-lie-da-qia-luo/what-the-water-gave-me-1938</link>
+      <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/fu-lie-da-qia-luo/what-the-water-gave-me-1938</guid>
       <pubDate>Mon, 27 Apr 2026 03:40:43 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/pi-ye-ao-gu-si-te-lei-nuo-wa/camille-monet-and-her-son-jean-in-the-garden-at-argenteuil-1874</guid>
       <pubDate>Fri, 10 Apr 2026 03:20:42 +0000</pubDate>
-    </item>
-<item>
-      <title>Self-Portrait with Masks</title>
-      <link>https://www.wikiart.org/zh/zhan-mu-si-en-suo-er/self-portrait-with-masks-1899</link>
-      <description />
-      <guid isPermaLink="false">https://www.wikiart.org/zh/zhan-mu-si-en-suo-er/self-portrait-with-masks-1899</guid>
-      <pubDate>Thu, 09 Apr 2026 02:49:07 +0000</pubDate>
     </item>
 </channel>
 </rss>
