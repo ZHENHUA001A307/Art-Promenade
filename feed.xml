@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/Art-Promenade</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Tue, 28 Apr 2026 03:47:16 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Apr 2026 03:42:42 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[我们从何处来？我们是谁？我们向何处去？]]></title>
-      <link>https://www.wikiart.org/zh/bao-luo-gao-geng/wo-men-cong-he-chu-lai-wo-men-shi-shui-wo-men-xiang-he-chu-qu-1897</link>
+      <title><![CDATA[Sixteenth of September]]></title>
+      <link>https://www.wikiart.org/zh/lei-nei-ma-ge-li-te/sixteenth-of-september-1956</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.wikiart.org/zh/lei-nei-ma-ge-li-te/sixteenth-of-september-1956</guid>
+      <pubDate>Wed, 29 Apr 2026 03:42:42 +0000</pubDate>
+    </item>
+<item>
+      <title>我们从何处来？我们是谁？我们向何处去？</title>
+      <link>https://www.wikiart.org/zh/bao-luo-gao-geng/wo-men-cong-he-chu-lai-wo-men-shi-shui-wo-men-xiang-he-chu-qu-1897</link>
+      <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/bao-luo-gao-geng/wo-men-cong-he-chu-lai-wo-men-shi-shui-wo-men-xiang-he-chu-qu-1897</guid>
       <pubDate>Tue, 28 Apr 2026 03:47:16 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/sa-er-wa-duo-da-li/women-forming-a-skull</guid>
       <pubDate>Sat, 11 Apr 2026 02:45:31 +0000</pubDate>
-    </item>
-<item>
-      <title>Camille Monet and Her Son Jean in the Garden at Argenteuil</title>
-      <link>https://www.wikiart.org/zh/pi-ye-ao-gu-si-te-lei-nuo-wa/camille-monet-and-her-son-jean-in-the-garden-at-argenteuil-1874</link>
-      <description />
-      <guid isPermaLink="false">https://www.wikiart.org/zh/pi-ye-ao-gu-si-te-lei-nuo-wa/camille-monet-and-her-son-jean-in-the-garden-at-argenteuil-1874</guid>
-      <pubDate>Fri, 10 Apr 2026 03:20:42 +0000</pubDate>
     </item>
 </channel>
 </rss>
