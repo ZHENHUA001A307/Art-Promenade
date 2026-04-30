@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/Art-Promenade</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Wed, 29 Apr 2026 03:42:42 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Apr 2026 03:45:14 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[Sixteenth of September]]></title>
-      <link>https://www.wikiart.org/zh/lei-nei-ma-ge-li-te/sixteenth-of-september-1956</link>
+      <title><![CDATA[新奧爾良棉花交易所]]></title>
+      <link>https://www.wikiart.org/zh/ai-de-jia-de-jia/xin-ao-er-liang-mian-hua-jiao-yi-suo-1873</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.wikiart.org/zh/ai-de-jia-de-jia/xin-ao-er-liang-mian-hua-jiao-yi-suo-1873</guid>
+      <pubDate>Thu, 30 Apr 2026 03:45:14 +0000</pubDate>
+    </item>
+<item>
+      <title>Sixteenth of September</title>
+      <link>https://www.wikiart.org/zh/lei-nei-ma-ge-li-te/sixteenth-of-september-1956</link>
+      <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/lei-nei-ma-ge-li-te/sixteenth-of-september-1956</guid>
       <pubDate>Wed, 29 Apr 2026 03:42:42 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/lun-bo-lang/the-return-of-the-prodigal-son-1669</guid>
       <pubDate>Sun, 12 Apr 2026 03:24:15 +0000</pubDate>
-    </item>
-<item>
-      <title>Women forming a skull</title>
-      <link>https://www.wikiart.org/zh/sa-er-wa-duo-da-li/women-forming-a-skull</link>
-      <description />
-      <guid isPermaLink="false">https://www.wikiart.org/zh/sa-er-wa-duo-da-li/women-forming-a-skull</guid>
-      <pubDate>Sat, 11 Apr 2026 02:45:31 +0000</pubDate>
     </item>
 </channel>
 </rss>
