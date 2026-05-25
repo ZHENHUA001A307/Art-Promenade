@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/Art-Promenade</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Mon, 18 May 2026 03:28:37 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 25 May 2026 03:35:35 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[The Tilled Field]]></title>
-      <link>https://www.wikiart.org/zh/hu-an-mi-luo/the-tilled-field-1924</link>
+      <title><![CDATA[自画像]]></title>
+      <link>https://www.wikiart.org/zh/a-er-bu-lei-xi-te-diu-le/zi-hua-xiang-1500</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.wikiart.org/zh/a-er-bu-lei-xi-te-diu-le/zi-hua-xiang-1500</guid>
+      <pubDate>Mon, 25 May 2026 03:35:35 +0000</pubDate>
+    </item>
+<item>
+      <title>The Tilled Field</title>
+      <link>https://www.wikiart.org/zh/hu-an-mi-luo/the-tilled-field-1924</link>
+      <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/hu-an-mi-luo/the-tilled-field-1924</guid>
       <pubDate>Mon, 18 May 2026 03:28:37 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/a-er-feng-si-mu-xia/job-1896</guid>
       <pubDate>Thu, 16 Apr 2026 03:29:55 +0000</pubDate>
-    </item>
-<item>
-      <title>第九波濤</title>
-      <link>https://www.wikiart.org/zh/yi-fan-kang-si-tan-ding-nuo-wei-qi-ai-wa-zuo-fu-si-ji/di-jiu-bo-tao-1850</link>
-      <description />
-      <guid isPermaLink="false">https://www.wikiart.org/zh/yi-fan-kang-si-tan-ding-nuo-wei-qi-ai-wa-zuo-fu-si-ji/di-jiu-bo-tao-1850</guid>
-      <pubDate>Wed, 15 Apr 2026 03:21:47 +0000</pubDate>
     </item>
 </channel>
 </rss>
