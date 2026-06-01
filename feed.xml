@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/Art-Promenade</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Mon, 25 May 2026 03:35:35 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 03:49:26 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[自画像]]></title>
-      <link>https://www.wikiart.org/zh/a-er-bu-lei-xi-te-diu-le/zi-hua-xiang-1500</link>
+      <title><![CDATA[Le Pont de L'Europe]]></title>
+      <link>https://www.wikiart.org/zh/gu-si-ta-fu-qia-ye-bo-te/le-pont-de-l-europe</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.wikiart.org/zh/gu-si-ta-fu-qia-ye-bo-te/le-pont-de-l-europe</guid>
+      <pubDate>Mon, 01 Jun 2026 03:49:26 +0000</pubDate>
+    </item>
+<item>
+      <title>自画像</title>
+      <link>https://www.wikiart.org/zh/a-er-bu-lei-xi-te-diu-le/zi-hua-xiang-1500</link>
+      <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/a-er-bu-lei-xi-te-diu-le/zi-hua-xiang-1500</guid>
       <pubDate>Mon, 25 May 2026 03:35:35 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/h-r-ji-ge-er/work-nr-217-elp-ii-brain-salad-surgery-1973</guid>
       <pubDate>Fri, 17 Apr 2026 03:25:15 +0000</pubDate>
-    </item>
-<item>
-      <title>Job</title>
-      <link>https://www.wikiart.org/zh/a-er-feng-si-mu-xia/job-1896</link>
-      <description />
-      <guid isPermaLink="false">https://www.wikiart.org/zh/a-er-feng-si-mu-xia/job-1896</guid>
-      <pubDate>Thu, 16 Apr 2026 03:29:55 +0000</pubDate>
     </item>
 </channel>
 </rss>
