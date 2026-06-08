@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/Art-Promenade</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Mon, 01 Jun 2026 03:49:26 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 08 Jun 2026 03:44:02 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[Le Pont de L'Europe]]></title>
-      <link>https://www.wikiart.org/zh/gu-si-ta-fu-qia-ye-bo-te/le-pont-de-l-europe</link>
+      <title><![CDATA[Woman Leaving the Psychoanalyst]]></title>
+      <link>https://www.wikiart.org/zh/remedios-varo/saljendodel-woman-psychoanalyst</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.wikiart.org/zh/remedios-varo/saljendodel-woman-psychoanalyst</guid>
+      <pubDate>Mon, 08 Jun 2026 03:44:02 +0000</pubDate>
+    </item>
+<item>
+      <title>Le Pont de L'Europe</title>
+      <link>https://www.wikiart.org/zh/gu-si-ta-fu-qia-ye-bo-te/le-pont-de-l-europe</link>
+      <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/gu-si-ta-fu-qia-ye-bo-te/le-pont-de-l-europe</guid>
       <pubDate>Mon, 01 Jun 2026 03:49:26 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/ti-qi-an-nuo-wei-jia-lue/allegory-of-time-governed-by-prudence</guid>
       <pubDate>Mon, 20 Apr 2026 03:34:10 +0000</pubDate>
-    </item>
-<item>
-      <title>Work Nr. 217 ELP II (Brain Salad Surgery)</title>
-      <link>https://www.wikiart.org/zh/h-r-ji-ge-er/work-nr-217-elp-ii-brain-salad-surgery-1973</link>
-      <description />
-      <guid isPermaLink="false">https://www.wikiart.org/zh/h-r-ji-ge-er/work-nr-217-elp-ii-brain-salad-surgery-1973</guid>
-      <pubDate>Fri, 17 Apr 2026 03:25:15 +0000</pubDate>
     </item>
 </channel>
 </rss>
