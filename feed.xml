@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/Art-Promenade</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Thu, 02 Jul 2026 03:23:03 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 07 Jul 2026 02:53:16 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[The Birth of Day]]></title>
-      <link>https://www.wikiart.org/zh/hu-an-mi-luo/the-birth-of-day</link>
+      <title><![CDATA[Attempting the Impossible]]></title>
+      <link>https://www.wikiart.org/zh/lei-nei-ma-ge-li-te/attempting-the-impossible-1928</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.wikiart.org/zh/lei-nei-ma-ge-li-te/attempting-the-impossible-1928</guid>
+      <pubDate>Tue, 07 Jul 2026 02:53:16 +0000</pubDate>
+    </item>
+<item>
+      <title>The Birth of Day</title>
+      <link>https://www.wikiart.org/zh/hu-an-mi-luo/the-birth-of-day</link>
+      <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/hu-an-mi-luo/the-birth-of-day</guid>
       <pubDate>Thu, 02 Jul 2026 03:23:03 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/qiao-zhi-bu-la-ke/bottle-and-fishes-1910</guid>
       <pubDate>Thu, 23 Apr 2026 03:27:53 +0000</pubDate>
-    </item>
-<item>
-      <title>Ternura</title>
-      <link>https://www.wikiart.org/zh/oswaldo-guayasamin/ternura-1989</link>
-      <description />
-      <guid isPermaLink="false">https://www.wikiart.org/zh/oswaldo-guayasamin/ternura-1989</guid>
-      <pubDate>Wed, 22 Apr 2026 03:24:14 +0000</pubDate>
     </item>
 </channel>
 </rss>
