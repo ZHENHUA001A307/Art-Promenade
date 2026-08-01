@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/Art-Promenade</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Sat, 25 Jul 2026 03:28:05 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 03:38:29 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[Southern (Tunisian) gardens]]></title>
-      <link>https://www.wikiart.org/zh/bao-luo-ke-li/southern-tunisian-gardens-1919</link>
+      <title><![CDATA[焦慮]]></title>
+      <link>https://www.wikiart.org/zh/ai-de-hua-meng-ke/jiao-lu-1894</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.wikiart.org/zh/ai-de-hua-meng-ke/jiao-lu-1894</guid>
+      <pubDate>Sat, 01 Aug 2026 03:38:29 +0000</pubDate>
+    </item>
+<item>
+      <title>Southern (Tunisian) gardens</title>
+      <link>https://www.wikiart.org/zh/bao-luo-ke-li/southern-tunisian-gardens-1919</link>
+      <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/bao-luo-ke-li/southern-tunisian-gardens-1919</guid>
       <pubDate>Sat, 25 Jul 2026 03:28:05 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/ai-de-jia-de-jia/xin-ao-er-liang-mian-hua-jiao-yi-suo-1873</guid>
       <pubDate>Thu, 30 Apr 2026 03:45:14 +0000</pubDate>
-    </item>
-<item>
-      <title>Sixteenth of September</title>
-      <link>https://www.wikiart.org/zh/lei-nei-ma-ge-li-te/sixteenth-of-september-1956</link>
-      <description />
-      <guid isPermaLink="false">https://www.wikiart.org/zh/lei-nei-ma-ge-li-te/sixteenth-of-september-1956</guid>
-      <pubDate>Wed, 29 Apr 2026 03:42:42 +0000</pubDate>
     </item>
 </channel>
 </rss>
