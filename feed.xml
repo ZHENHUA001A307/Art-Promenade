@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/Art-Promenade</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Sat, 29 Aug 2026 06:51:36 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 04:08:38 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[Woman in Black Stockings]]></title>
-      <link>https://www.wikiart.org/zh/ai-gong-xi-le/woman-in-black-stockings-1913</link>
+      <title><![CDATA[教皇英诺森十世像]]></title>
+      <link>https://www.wikiart.org/zh/wei-la-si-kai-zi/jiao-huang-ying-nuo-sen-shi-shi-xiang-1650</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www.wikiart.org/zh/wei-la-si-kai-zi/jiao-huang-ying-nuo-sen-shi-shi-xiang-1650</guid>
+      <pubDate>Sat, 05 Sep 2026 04:08:38 +0000</pubDate>
+    </item>
+<item>
+      <title>Woman in Black Stockings</title>
+      <link>https://www.wikiart.org/zh/ai-gong-xi-le/woman-in-black-stockings-1913</link>
+      <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/ai-gong-xi-le/woman-in-black-stockings-1913</guid>
       <pubDate>Sat, 29 Aug 2026 06:51:36 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description />
       <guid isPermaLink="false">https://www.wikiart.org/zh/gu-si-ta-fu-qia-ye-bo-te/le-pont-de-l-europe</guid>
       <pubDate>Mon, 01 Jun 2026 03:49:26 +0000</pubDate>
-    </item>
-<item>
-      <title>自画像</title>
-      <link>https://www.wikiart.org/zh/a-er-bu-lei-xi-te-diu-le/zi-hua-xiang-1500</link>
-      <description />
-      <guid isPermaLink="false">https://www.wikiart.org/zh/a-er-bu-lei-xi-te-diu-le/zi-hua-xiang-1500</guid>
-      <pubDate>Mon, 25 May 2026 03:35:35 +0000</pubDate>
     </item>
 </channel>
 </rss>
